@@ -12,12 +12,12 @@ const Footer = () => {
     const experienceYears = currentYear - startYear;
 
     const socials = [
-        { icon: <FaLinkedinIn />, link: "https://www.linkedin.com/in/rafiultalukdar/" },
-        { icon: <FaFacebookF />, link: "https://www.facebook.com/rafiultalukdar1" },
-        { icon: <FaInstagram />, link: "https://www.instagram.com/rafiul.talukdar/" },
-        { icon: <FaXTwitter />, link: "https://x.com/rafiultalukdar" },
+        { icon: <FaLinkedinIn />, link: "https://www.linkedin.com/in/rafiultalukdar9/" },
+        { icon: <FaFacebookF />, link: "https://www.facebook.com/rafiultalukdar29" },
+        { icon: <FaInstagram />, link: "https://www.instagram.com/rafiultalukdar9/" },
+        { icon: <FaXTwitter />, link: "https://x.com/rafiultalukdar9" },
         { icon: <FaWhatsapp />, link: "https://wa.me/01720229887" },
-        { icon: <FaGithub />, link: "https://github.com/rafiultalukdar1" },
+        { icon: <FaGithub />, link: "https://github.com/rafiultalukdar9" },
     ];
 
     return (
